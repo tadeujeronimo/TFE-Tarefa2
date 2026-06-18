@@ -16,6 +16,10 @@ npm install
 npm run dev
 ```
 
+## Vídeo explicativo no YouTube (não listado):
+
+[https://youtu.be/dvpo2ltdUgs](https://youtu.be/dvpo2ltdUgs)
+
 ## Autor
 
 - **Nome**: Tadeu dos Santos Jerônimo
